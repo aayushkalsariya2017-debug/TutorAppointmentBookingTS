@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1776659138267,
+    "fullName": "Ayush",
+    "email": "ayush@email.com",
+    "password": "$2b$10$DeuvvbApcgI4cTntdp32D.iOqI/bAYPhcHaYoBD.7H7qCQsCkPAOS",
+    "role": "Admin"
+  },
+  {
+    "id": 1776694259470,
+    "fullName": "Test User",
+    "email": "testuser1@email.com",
+    "password": "$2b$10$b76Rhd78etmOodJgQSWVtO2OpaSV4SSeW.DEAV.p7kh2LrcmO5PfS",
+    "role": "User"
+  }
+]

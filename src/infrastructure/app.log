@@ -1,0 +1,145 @@
+2026-04-20T14:10:59.454Z - User logged in: ayush@email.com
+2026-04-20T14:10:59.471Z - User registered: testuser1@email.com
+2026-04-20T14:10:59.497Z - User 1776659138267 viewed their appointments
+2026-04-20T14:10:59.576Z - User logged in: ayush@email.com
+2026-04-20T14:11:27.631Z - User logged in: ayush@email.com
+2026-04-20T14:11:27.958Z - User logged in: ayush@email.com
+2026-04-20T14:11:28.428Z - User 1776659138267 viewed their appointments
+2026-04-20T14:22:16.020Z - User logged in: ayush@email.com
+2026-04-20T14:22:16.078Z - User 1776659138267 viewed their appointments
+2026-04-20T14:22:16.262Z - User logged in: ayush@email.com
+2026-04-20T14:22:17.348Z - User logged in: ayush@email.com
+2026-04-20T14:22:17.375Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T14:22:17.403Z - Admin approved appointment 1776694937374
+2026-04-20T14:22:17.417Z - Admin declined appointment 1776694937374
+2026-04-20T14:22:17.430Z - Admin edited appointment 1776694937374 to new date 2026-06-10
+2026-04-20T14:22:49.486Z - User logged in: ayush@email.com
+2026-04-20T14:22:49.521Z - User logged in: ayush@email.com
+2026-04-20T14:22:49.542Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T14:22:49.573Z - Admin approved appointment 1776694969541
+2026-04-20T14:22:49.584Z - Admin declined appointment 1776694969541
+2026-04-20T14:22:49.594Z - Admin edited appointment 1776694969541 to new date 2026-06-10
+2026-04-20T14:22:49.720Z - User logged in: ayush@email.com
+2026-04-20T14:22:49.755Z - User 1776659138267 viewed their appointments
+2026-04-20T14:31:52.155Z - User logged in: ayush@email.com
+2026-04-20T14:31:52.187Z - User 1776659138267 viewed their appointments
+2026-04-20T14:31:52.200Z - User logged in: ayush@email.com
+2026-04-20T14:31:52.222Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T14:31:52.243Z - Admin approved appointment 1776695512221
+2026-04-20T14:31:52.255Z - Admin declined appointment 1776695512221
+2026-04-20T14:31:52.265Z - Admin edited appointment 1776695512221 to new date 2026-06-10
+2026-04-20T14:31:52.922Z - User logged in: ayush@email.com
+2026-04-20T14:36:27.144Z - User logged in: ayush@email.com
+2026-04-20T14:36:27.188Z - User 1776659138267 viewed their appointments
+2026-04-20T14:36:27.242Z - User logged in: ayush@email.com
+2026-04-20T14:36:28.082Z - User logged in: ayush@email.com
+2026-04-20T14:36:28.098Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T14:36:28.116Z - Admin approved appointment 1776695788096
+2026-04-20T14:36:28.125Z - Admin declined appointment 1776695788096
+2026-04-20T14:36:28.133Z - Admin edited appointment 1776695788096 to new date 2026-06-10
+2026-04-20T22:23:43.331Z - User logged in: ayush@email.com
+2026-04-20T22:23:43.335Z - User logged in: ayush@email.com
+2026-04-20T22:23:43.363Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T22:23:43.388Z - Admin approved appointment 1776723823361
+2026-04-20T22:23:43.404Z - Admin declined appointment 1776723823361
+2026-04-20T22:23:43.417Z - Admin edited appointment 1776723823361 to new date 2026-06-10
+2026-04-20T22:23:43.439Z - User logged in: ayush@email.com
+2026-04-20T22:23:43.480Z - User 1776659138267 viewed their appointments
+2026-04-20T22:26:17.333Z - User logged in: ayush@email.com
+2026-04-20T22:26:17.360Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T22:26:17.366Z - User logged in: ayush@email.com
+2026-04-20T22:26:17.367Z - User logged in: ayush@email.com
+2026-04-20T22:26:17.393Z - Admin approved appointment 1776723977359
+2026-04-20T22:26:17.410Z - Admin declined appointment 1776723977359
+2026-04-20T22:26:17.411Z - Get my appointments error: SyntaxError: Unexpected end of JSON input
+2026-04-20T22:26:17.423Z - Admin edited appointment 1776723977359 to new date 2026-06-10
+2026-04-20T23:25:41.250Z - User logged in: ayush@email.com
+2026-04-20T23:25:41.251Z - User logged in: ayush@email.com
+2026-04-20T23:25:41.256Z - User logged in: ayush@email.com
+2026-04-20T23:25:41.277Z - User logged in: ayush@email.com
+2026-04-20T23:25:41.314Z - Get my appointments error: SyntaxError: Unexpected end of JSON input
+2026-04-20T23:25:41.365Z - Approve appointment error: SyntaxError: Unexpected end of JSON input
+2026-04-20T23:25:41.384Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T23:25:41.406Z - Admin approved appointment 1776727541267
+2026-04-20T23:25:41.418Z - Admin declined appointment 1776727541267
+2026-04-20T23:25:41.428Z - Admin edited appointment 1776727541267 to new date 2026-06-10
+2026-04-20T23:29:27.030Z - User logged in: ayush@email.com
+2026-04-20T23:29:27.033Z - User logged in: ayush@email.com
+2026-04-20T23:29:27.054Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T23:29:27.065Z - User 1776659138267 viewed their appointments
+2026-04-20T23:29:27.074Z - Admin approved appointment 1776727767053
+2026-04-20T23:29:27.084Z - Admin declined appointment 1776727767053
+2026-04-20T23:29:27.093Z - Admin edited appointment 1776727767053 to new date 2026-06-10
+2026-04-20T23:29:27.417Z - User logged in: ayush@email.com
+2026-04-20T23:30:05.268Z - User logged in: ayush@email.com
+2026-04-20T23:30:05.291Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-20T23:30:05.314Z - Admin approved appointment 1776727805290
+2026-04-20T23:30:05.325Z - Admin declined appointment 1776727805290
+2026-04-20T23:30:05.335Z - Admin edited appointment 1776727805290 to new date 2026-06-10
+2026-04-20T23:30:05.398Z - User logged in: ayush@email.com
+2026-04-20T23:30:05.571Z - User logged in: ayush@email.com
+2026-04-20T23:30:05.595Z - User 1776659138267 viewed their appointments
+2026-04-21T00:46:12.760Z - User logged in: ayush@email.com
+2026-04-21T00:46:12.780Z - User logged in: ayush@email.com
+2026-04-21T00:46:13.029Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-21T00:46:13.046Z - Admin approved appointment 1776732372773
+2026-04-21T00:46:13.055Z - Admin declined appointment 1776732372773
+2026-04-21T00:46:13.064Z - Admin edited appointment 1776732372773 to new date 2026-06-10
+2026-04-21T00:46:13.166Z - User logged in: ayush@email.com
+2026-04-21T00:46:13.198Z - User 1776659138267 viewed their appointments
+2026-04-21T00:49:37.875Z - User logged in: ayush@email.com
+2026-04-21T00:49:37.916Z - User 1776659138267 viewed their appointments
+2026-04-21T00:49:38.189Z - User logged in: ayush@email.com
+2026-04-21T00:49:38.203Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-21T00:49:38.220Z - Admin approved appointment 1776732578202
+2026-04-21T00:49:38.232Z - Admin declined appointment 1776732578202
+2026-04-21T00:49:38.240Z - Admin edited appointment 1776732578202 to new date 2026-06-10
+2026-04-21T00:49:38.319Z - User logged in: ayush@email.com
+2026-04-21T00:49:56.745Z - User logged in: ayush@email.com
+2026-04-21T00:49:56.761Z - User logged in: ayush@email.com
+2026-04-21T00:49:56.770Z - User 1776659138267 viewed their appointments
+2026-04-21T00:49:56.781Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-21T00:49:56.801Z - Admin approved appointment 1776732596780
+2026-04-21T00:49:56.811Z - Admin declined appointment 1776732596780
+2026-04-21T00:49:56.818Z - Admin edited appointment 1776732596780 to new date 2026-06-10
+2026-04-21T00:49:56.845Z - User logged in: ayush@email.com
+2026-04-21T01:04:54.820Z - User logged in: ayush@email.com
+2026-04-21T01:04:54.847Z - User logged in: ayush@email.com
+2026-04-21T01:04:54.856Z - User 1776659138267 viewed their appointments
+2026-04-21T01:04:54.967Z - User logged in: ayush@email.com
+2026-04-21T01:04:54.980Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-21T01:04:54.999Z - Admin approved appointment 1776733494979
+2026-04-21T01:04:55.008Z - Admin declined appointment 1776733494979
+2026-04-21T01:04:55.015Z - Admin edited appointment 1776733494979 to new date 2026-06-10
+2026-04-21T01:05:15.364Z - User logged in: ayush@email.com
+2026-04-21T01:05:15.382Z - User logged in: ayush@email.com
+2026-04-21T01:05:15.385Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-21T01:05:15.399Z - User logged in: ayush@email.com
+2026-04-21T01:05:15.415Z - Admin approved appointment 1776733515383
+2026-04-21T01:05:15.415Z - User 1776659138267 viewed their appointments
+2026-04-21T01:05:15.429Z - Admin declined appointment 1776733515383
+2026-04-21T01:05:15.441Z - Admin edited appointment 1776733515383 to new date 2026-06-10
+2026-04-21T01:13:26.594Z - User logged in: ayush@email.com
+2026-04-21T01:13:26.613Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-21T01:13:26.620Z - User logged in: ayush@email.com
+2026-04-21T01:13:26.643Z - Admin approved appointment 1776734006612
+2026-04-21T01:13:26.655Z - Admin declined appointment 1776734006612
+2026-04-21T01:13:26.664Z - Admin edited appointment 1776734006612 to new date 2026-06-10
+2026-04-21T01:13:26.694Z - User logged in: ayush@email.com
+2026-04-21T01:13:26.719Z - User 1776659138267 viewed their appointments
+2026-04-21T01:15:06.894Z - User logged in: ayush@email.com
+2026-04-21T01:15:06.912Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-21T01:15:06.937Z - Admin approved appointment 1776734106911
+2026-04-21T01:15:06.953Z - Admin declined appointment 1776734106911
+2026-04-21T01:15:06.961Z - User logged in: ayush@email.com
+2026-04-21T01:15:06.968Z - Admin edited appointment 1776734106911 to new date 2026-06-10
+2026-04-21T01:15:07.097Z - User logged in: ayush@email.com
+2026-04-21T01:15:07.121Z - User 1776659138267 viewed their appointments
+2026-04-21T01:15:24.475Z - User logged in: ayush@email.com
+2026-04-21T01:15:24.589Z - User logged in: ayush@email.com
+2026-04-21T01:15:24.608Z - User 1776659138267 booked tutor 2 on 2026-06-01
+2026-04-21T01:15:24.636Z - Admin approved appointment 1776734124607
+2026-04-21T01:15:24.648Z - Admin declined appointment 1776734124607
+2026-04-21T01:15:24.657Z - Admin edited appointment 1776734124607 to new date 2026-06-10
+2026-04-21T01:15:24.677Z - User logged in: ayush@email.com
+2026-04-21T01:15:24.702Z - User 1776659138267 viewed their appointments
